@@ -7,7 +7,7 @@ public class CalculatorTests {
     public void TestOne(){
         // Arrange
         int x = 5;
-        int y = 10;
+        int y = 11;
 
         // Act
         int sum = x + y;
